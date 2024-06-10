@@ -1,3 +1,5 @@
+# Desafio Estágio de Desenvolvimento Projex Consulting 2024.
+
 ## Descrição
 
 Este projeto é um site dedicado a promover o entendimento e a importância da integração entre tecnologia e sustentabilidade. O site oferece conteúdos diversos, incluindo imagens e recursos que destacam como a tecnologia pode ser utilizada para promover práticas sustentáveis.
